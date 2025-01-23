@@ -15,15 +15,16 @@ I am currently pursuing a bachelor's degree in software development with emphasi
 
 ## Technologies and Tools
 
-- Proficient in: HTML, CSS, SCSS, JavaScript, Python, SQL, PHP, React, express.js, and node.js
-- Skills:
-• Reliability and self-motivation
-• Excellent communication Skills
-• Employ the MERN & XAMP stacks and the Model View Controller architecture for web development
-• Deploy digital technologies ethically and efficiently  to solve problems and complete tasks
-• Build collaborative relationships with colleagues of diverse cultures and viewpoints
-• Enthusiasm and patience                           
-•	Excellent communication Skills
+- Proficient in: HTML, CSS, SCSS, JavaScript, Python, SQL, PHP, React, Express.js, and Node.js
+<div>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
+</div>
+
+- Skills: Reliability and self-motivation, Excellent Communication Skills, Employ the MERN & XAMP stacks and the Model View Controller architecture for web development, Deploy digital technologies ethically and efficiently  to solve problems and complete tasks, Build collaborative relationships with colleagues of diverse cultures and viewpoints, Enthusiasm and patience       Excellent communication Skills
 
 ## Web Projects
 - Zen garden: https://simycodes.github.io/zen-garden/
@@ -33,16 +34,8 @@ I am currently pursuing a bachelor's degree in software development with emphasi
 
 ## Let's Connect!
 
-- Here is my LinkedIn: https://www.linkedin.com/in/simon-mule-126058243
+- Here is my LinkedIn:[![](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)]() https://www.linkedin.com/in/simon-mule-126058243
 - Here is my portfolio website: https://simycodes.github.io/simon-mule-portfolio/
 
 Feel free to explore my repositories and don't hesitate to reach out. Happy coding! 🚀
 
-
-<div>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
-</div>
