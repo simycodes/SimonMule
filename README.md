@@ -34,8 +34,8 @@ I am currently pursuing a bachelor's degree in software development with emphasi
 
 ## Let's Connect!
 
-- Here is my LinkedIn:[![](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)]() https://www.linkedin.com/in/simon-mule-126058243
-- Here is my portfolio website: https://simycodes.github.io/simon-mule-portfolio/
+[![](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)]()
+- Here is my LinkedIn: https://www.linkedin.com/in/simon-mule-126058243
 
 Feel free to explore my repositories and don't hesitate to reach out. Happy coding! 🚀
 
