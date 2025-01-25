@@ -7,7 +7,7 @@ I am currently pursuing a bachelor's degree in software development with emphasi
 
 ## About Me
 
-- I am a self-motivated and fast learner developer with skills in HTML, CSS, SCSS, JavaScript, Python, PHP, React, express.js, and node.js, with experience in developing websites using the MERN and XAMP web stacks. I have planned, designed, and developed several websites, with a vehicle content management web application as one of my biggest projects.
+- I am a self-motivated and fast learner developer with skills in HTML, CSS, SCSS, JavaScript, React, Python, PHP, SQL, Node.js, Express.js, and MongoDB, with experience in developing websites using the MERN and XAMP web stacks. I have planned, designed, and developed several websites, with a job tracker web application as one of my biggest projects.
 - I have skills for both the front-end and back-end and I am competent to contribute to a web and software development team.
 - I am passionate about web development and I always find ways of learning new and interesting web technologies that can make my web development work more efficient. 
 - I'm currently learning java programming language.
